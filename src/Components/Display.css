@@ -1,0 +1,21 @@
+
+
+.display-container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.display-container h2 {
+  font-size: 50px;
+  color: #9b59b6; 
+}
+
+.display-container p {
+  font-size: 18px;
+  color: #fff; 
+}
+
+.error-message {
+  color: red;
+  font-size: 16px;
+}

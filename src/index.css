@@ -1,0 +1,26 @@
+/* index.css */
+
+/* General body styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #9b59b6, #f39c12); /* Violet to Pink gradient */
+  color: white; /* Set text color to white for better contrast */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+/* Center the main content */
+#root {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background for contrast */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
